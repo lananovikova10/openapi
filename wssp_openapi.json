@@ -606,8 +606,9 @@
                     "id", 
                     "modality_type", 
                     "name", 
-                    "publisher", 
-                    "sizes"], 
+                    "publisher",
+                    "sizes"
+                ], 
                 "type": "object", 
                 "properties": {
                     "publisher": {
