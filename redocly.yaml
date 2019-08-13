@@ -1,0 +1,7 @@
+specFileName: wssp_openapi.json
+apiTitle: ssp_api
+splitSpec: false
+codeSamples: true
+swaggerUI: false
+travis: false
+oasVersion: 3.0.0
